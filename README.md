@@ -78,6 +78,10 @@
 - [黑客与画家](https://book.douban.com/subject/6021440/): 这并不是一本教你如何编程的书, 但它能带你看到不一样的编程世界, 推荐给任何想学编程的人, 这本书很薄, 几天就可以读完, 但是可能会让你受用终生
 - [算法导论](https://book.douban.com/subject/20432061/): 所有程序员都必须学习的基础书, 进阶必经之路, 需要花长时间去理解, 适合有一定编程基础的人
 - [浮现式设计](https://book.douban.com/subject/6757781/): 以独特的角度解读设计模式, 适合基础薄弱, 初接触设计模式的人
+- [devdocs.io](http://devdocs.io/):官方文档
+- [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/index.html) :总结
+- [开源中国在线](http://tool.oschina.net/):小工具
+- [贝塞尔曲线模拟器](http://cubic-bezier.com/#.17,.67,.83,.67):CSS3动画
 
 
 ## 写在后面的话
