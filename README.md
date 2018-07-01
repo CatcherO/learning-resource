@@ -67,6 +67,7 @@
 ### Linux
 - [Shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)：优秀的入门书，适合所有学习Shell的新人。
 - [Linux中国社区](https://linux.cn/)：内有大量的Linux学习资源，适合所有学习linux的人。
+- [linx命令搜索](http://wangchujiang.com/linux-command/):Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集，界面干净简洁。
 
 ### Docker
 - [docker入门与实践](http://docker_practice.gitee.io/): docker入门书, 适合所有学习docker的新人
